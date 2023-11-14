@@ -1,0 +1,12 @@
+mongodb acount
+mail:
+pass:S*m*K*r*3**
+
+cloudinary acount
+mail:semihkaradag35
+pass:S*m*K*r*3**
+
+mongodb
+un:root
+pass:S*m*K*r*3**
+
